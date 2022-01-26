@@ -1,0 +1,18 @@
+#########################################
+#
+#        Base_Bot - Lucas-LIOM
+#
+#########################################
+
+Na pasta de Menus, você irá fazer seus menuzinhos (o menu de comandos que o bot irá enviar para o usuário)
+Salve como um arquivo .js (javascript) e então, comente tudo
+
+Para fazer os menus de comandos, utilize desta forma:
+
+const menu = (prefix) => { 
+
+	return `É aqui a onde você vai montar o seu menu de comandos` << Retorna o menu de comandos
+}
+
+exports.menu = menu << Exporta para o arquivo onde você vai usar
+

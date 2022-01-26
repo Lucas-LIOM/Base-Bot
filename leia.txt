@@ -1,0 +1,7 @@
+Caso queira mudar seu número para outro whatsapp, apague 
+o arquivo "qrcode.json" e escaneie novamente o código QR 
+pelo terminal, lembrando que você pode acabar corrompendo 
+então tome cuidado, isto serve para aquelas pessoas que
+perderam o numero ou só querem trocar para um outro whatsapp.
+
+Se for um desses casos, faça isso e, logo depois, inicie o bot normalmente

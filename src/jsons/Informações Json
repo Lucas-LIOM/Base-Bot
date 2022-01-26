@@ -1,0 +1,26 @@
+#########################################
+#
+#        Base_Bot - Lucas-LIOM
+#
+#########################################
+
+É aqui na pasta dos Json's a onde você irá adicionar as funções de:
+
+>• Antilink
+>• Antifake
+>• Antiporn
+>• Etc...
+
+# Utilize da sua criatividade a maior arma <3
+
+# Para criar um arquivo Json, utilize desta forma:
+
+{
+  "teste": "suacondicao",
+   # A virgula serve para separar o bloco de código
+  "teste2": "suacondicao2",
+  "teste3": ["suacondicao3", "suacondicao4"] 
+  # Se for um Array (local a onde serão armazenadas varias informações) utilize os colchetes
+  # Separe as infos dentro dos colchetes usando virgulas
+
+}
